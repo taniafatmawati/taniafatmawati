@@ -44,7 +44,7 @@ Jul 2024 - Aug 2024
 
 In this project, I set up and configured a Debian server, implementing advanced security measures such as SSH key authentication and effective firewall rules. I enhanced the server's security by integrating Nagios for real-time performance and security monitoring. Following the setup, I conducted penetration testing using Kali Linux tools to simulate cyberattacks, including brute-force attacks with Hydra, DoS attacks with hping3, and Man-in-the-Middle (MitM) attacks.
 
-[Link to Documentation](https://github.com/yourusername/debian-server-setup)
+[Link to Documentation](https://github.com/taniafatmawati/debian-server-setup-and-hardening)
 
 - **Results**:
   - Achieved a 100% reduction in successful brute-force login attempts by implementing SSH key authentication.
@@ -56,7 +56,7 @@ Dec 2023 - Jan 2024
 
 This project focused on implementing a digital signature system using the Digital Signature Algorithm (DSA) and the Message-Digest Algorithm 5 (MD5) hash function. The objective was to create a secure method for verifying the integrity and authenticity of digital messages by generating and verifying digital signatures.
 
-[Link to Documentation](https://github.com/yourusername/dsa-md5-digital-signatures)
+[Link to Documentation](https://github.com/taniafatmawati/dsa-md5-digital-signature)
 
 - **Results**:
   - Successfully implemented digital signature creation and verification using DSA and MD5, demonstrating effective application of cryptographic principles.
@@ -67,7 +67,7 @@ Oct 2023 - Nov 2023
 
 This project involved the implementation of the Advanced Encryption Standard (AES) algorithm using C++ to secure text data. I focused on using AES 128-bit encryption, applying key transformations such as SubBytes, ShiftRows, MixColumns, and AddRoundKey to encrypt text blocks efficiently. The project emphasized performance by implementing parallel processing for 128-bit blocks, achieving significant improvements in encryption speed.
 
-[Link to Documentation](https://github.com/yourusername/aes-text-data-security)
+[Link to Documentation](https://github.com/taniafatmawati/aes-text-encryption-cpp)
 
 - **Results**:
   - Successfully secured text data using AES 128-bit encryption, ensuring data confidentiality.
