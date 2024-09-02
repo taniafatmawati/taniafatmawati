@@ -31,13 +31,9 @@ Welcome to my GitHub profile! I'm a dedicated mathematics graduate with a strong
 
 ### 🛠️ Tools & Technologies
 ![Wireshark Badge](https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![TCPDump Badge](https://img.shields.io/badge/-TCPDump-000000?style=for-the-badge&logo=tcpdump&logoColor=white)
 ![OpenVPN Badge](https://img.shields.io/badge/-OpenVPN-FF7F32?style=for-the-badge&logo=openvpn&logoColor=white)
-![Nmap Badge](https://img.shields.io/badge/-Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
 ![Metasploit Badge](https://img.shields.io/badge/-Metasploit-4479A1?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Nagios Badge](https://img.shields.io/badge/-Nagios-217346?style=for-the-badge&logo=nagios&logoColor=white)
-![Hydra Badge](https://img.shields.io/badge/-Hydra-FF4500?style=for-the-badge&logoColor=white)
-![hping3 Badge](https://img.shields.io/badge/-hping3-FF0000?style=for-the-badge&logoColor=white)
 
 ---
 
@@ -45,18 +41,19 @@ Welcome to my GitHub profile! I'm a dedicated mathematics graduate with a strong
 
 ### [Debian Server Setup and Hardening with Nagios Monitoring and Penetration Testing](https://github.com/yourusername/debian-server-setup)
 Jul 2024 - Aug 2024
+
 In this project, I set up and configured a Debian server, implementing advanced security measures such as SSH key authentication and effective firewall rules. I enhanced the server's security by integrating Nagios for real-time performance and security monitoring. Following the setup, I conducted penetration testing using Kali Linux tools to simulate cyberattacks, including brute-force attacks with Hydra, DoS attacks with hping3, and Man-in-the-Middle (MitM) attacks.
 
 [Link to Documentation](https://github.com/yourusername/debian-server-setup)
 
 - **Results**:
-  - Achieved a 95% reduction in successful brute-force login attempts.
-  - Reduced unauthorized access attempts by 40% through robust firewall configuration.
-  - Enhanced detection and alerting capabilities by 40% with an optimized Nagios setup.
-  - Improved the server's overall security by 20%, making it more resilient to various cyberattacks.
+  - Achieved a 100% reduction in successful brute-force login attempts by implementing SSH key authentication.
+  - Reduced unauthorized access attempts by 85% through robust firewall configuration.
+  - Improved alerting and detection capabilities by enhancing Nagios configuration, resulting in a 50% increase in detected alerts.
 
 ### [DSA with MD5 for Digital Signatures](https://github.com/yourusername/dsa-md5-digital-signatures)
 Dec 2023 - Jan 2024
+
 This project focused on implementing a digital signature system using the Digital Signature Algorithm (DSA) and the Message-Digest Algorithm 5 (MD5) hash function. The objective was to create a secure method for verifying the integrity and authenticity of digital messages by generating and verifying digital signatures.
 
 [Link to Documentation](https://github.com/yourusername/dsa-md5-digital-signatures)
@@ -67,6 +64,7 @@ This project focused on implementing a digital signature system using the Digita
 
 ### [Cryptography Application: AES Implementation for Text Data Security](https://github.com/yourusername/aes-text-data-security)
 Oct 2023 - Nov 2023
+
 This project involved the implementation of the Advanced Encryption Standard (AES) algorithm using C++ to secure text data. I focused on using AES 128-bit encryption, applying key transformations such as SubBytes, ShiftRows, MixColumns, and AddRoundKey to encrypt text blocks efficiently. The project emphasized performance by implementing parallel processing for 128-bit blocks, achieving significant improvements in encryption speed.
 
 [Link to Documentation](https://github.com/yourusername/aes-text-data-security)
