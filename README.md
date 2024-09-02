@@ -42,7 +42,7 @@ Welcome to my GitHub profile! I'm a dedicated mathematics graduate with a strong
 ### [Debian Server Setup and Hardening with Nagios Monitoring and Penetration Testing](https://github.com/yourusername/debian-server-setup)
 Jul 2024 - Aug 2024
 
-In this project, I set up and configured a Debian server, implementing advanced security measures such as SSH key authentication and effective firewall rules. I enhanced the server's security by integrating Nagios for real-time performance and security monitoring. Following the setup, I conducted penetration testing using Kali Linux tools to simulate cyberattacks, including brute-force attacks with Hydra, DoS attacks with hping3, and Man-in-the-Middle (MitM) attacks.
+In this project, I set up and configured a Debian server, implementing advanced security measures such as SSH key authentication and effective firewall rules. I enhanced the server's security by integrating Nagios for real-time performance and security monitoring. Following the setup, I conducted penetration testing using Kali Linux tools to simulate cyberattacks, including brute-force attacks with Hydra, DoS attacks with hping3, and Firewall Bypass with Nmap.
 
 [Link to Documentation](https://github.com/taniafatmawati/debian-server-setup-and-hardening)
 
