@@ -42,7 +42,7 @@ Welcome to my GitHub profile! I'm a dedicated mathematics graduate with a strong
 ### [Debian Server Setup and Hardening with Nagios Monitoring and Penetration Testing](https://github.com/yourusername/debian-server-setup)
 Jul 2024 - Aug 2024
 
-In this project, I set up and configured a Debian server, implementing advanced security measures such as SSH key authentication and effective firewall rules. I enhanced the server's security by integrating Nagios for real-time performance and security monitoring. Following the setup, I conducted penetration testing using Kali Linux tools to simulate cyberattacks, including brute-force attacks with Hydra, DoS attacks with hping3, and Firewall Bypass with Nmap.
+This project involves configuring and securing a Debian server, implementing security measures including SSH key authentication and firewall rule optimization. Nagios was integrated to monitor system performance and security in real-time. Additionally, penetration testing was conducted using Kali Linux tools, simulating cyberattacks such as brute-force attacks with Hydra, DoS attacks with hping3, and firewall bypass attempts using Nmap.
 
 [Link to Documentation](https://github.com/taniafatmawati/debian-server-setup-and-hardening)
 
@@ -50,6 +50,17 @@ In this project, I set up and configured a Debian server, implementing advanced 
   - Achieved a 100% reduction in successful brute-force login attempts by implementing SSH key authentication.
   - Reduced unauthorized access attempts by 85% through robust firewall configuration.
   - Improved alerting and detection capabilities by enhancing Nagios configuration, resulting in a 50% increase in detected alerts.
+ 
+### [Securing Fedora Server with OpenVPN: SSL/TLS Integration and Firewall Hardening](https://github.com/taniafatmawati/vpn-secure-implementation-fedora-server)
+Aug 2024 - Sep 2024
+
+This project is focused on securing data communication through the configuration of a Virtual Private Network (VPN) using OpenVPN on a Fedora Server. The goal is to ensure encrypted data transmission and protection from unauthorized access by integrating SSL/TLS certificates and robust firewall configurations.
+
+[Link to Documentation](https://github.com/taniafatmawati/vpn-secure-implementation-fedora-server)
+
+- **Results**:
+  - Achieved complete encryption of data transmissions within the OpenVPN setup through the use of SSL/TLS certificates, ensuring comprehensive protection of data transferred between the server and clients.
+  - Applied advanced firewall rules that resulted in a 98% reduction in detected intrusion attempts, demonstrating the effectiveness of the firewall in securing network ports and preventing unauthorized access.
 
 ### [DSA with MD5 for Digital Signatures](https://github.com/yourusername/dsa-md5-digital-signatures)
 Dec 2023 - Jan 2024
