@@ -39,18 +39,6 @@ Welcome to my GitHub profile! I'm a dedicated mathematics graduate with a strong
 
 ## 📂 Featured Projects
 
-### [Debian Server Setup and Hardening with Nagios Monitoring and Penetration Testing](https://github.com/yourusername/debian-server-setup)
-Jul 2024 - Aug 2024
-
-This project involves configuring and securing a Debian server, implementing security measures including SSH key authentication and firewall rule optimization. Nagios was integrated to monitor system performance and security in real-time. Additionally, penetration testing was conducted using Kali Linux tools, simulating cyberattacks such as brute-force attacks with Hydra, DoS attacks with hping3, and firewall bypass attempts using Nmap.
-
-[Link to Documentation](https://github.com/taniafatmawati/debian-server-setup-and-hardening)
-
-- **Results**:
-  - Achieved a 100% reduction in successful brute-force login attempts by implementing SSH key authentication.
-  - Reduced unauthorized access attempts by 85% through robust firewall configuration.
-  - Improved alerting and detection capabilities by enhancing Nagios configuration, resulting in a 50% increase in detected alerts.
- 
 ### [Securing Fedora Server with OpenVPN: SSL/TLS Integration and Firewall Hardening](https://github.com/taniafatmawati/vpn-secure-implementation-fedora-server)
 Aug 2024 - Sep 2024
 
@@ -62,6 +50,20 @@ This project is focused on securing data communication through the configuration
   - Achieved complete encryption of data transmissions within the OpenVPN setup through the use of SSL/TLS certificates, ensuring comprehensive protection of data transferred between the server and clients.
   - Applied advanced firewall rules that resulted in a 98% reduction in detected intrusion attempts, demonstrating the effectiveness of the firewall in securing network ports and preventing unauthorized access.
 
+
+### [Debian Server Setup and Hardening with Nagios Monitoring and Penetration Testing](https://github.com/yourusername/debian-server-setup)
+Jul 2024 - Aug 2024
+
+This project involves configuring and securing a Debian server, implementing security measures including SSH key authentication and firewall rule optimization. Nagios was integrated to monitor system performance and security in real-time. Additionally, penetration testing was conducted using Kali Linux tools, simulating cyberattacks such as brute-force attacks with Hydra, DoS attacks with hping3, and firewall bypass attempts using Nmap.
+
+[Link to Documentation](https://github.com/taniafatmawati/debian-server-setup-and-hardening)
+
+- **Results**:
+  - Achieved a 100% reduction in successful brute-force login attempts by implementing SSH key authentication.
+  - Reduced unauthorized access attempts by 85% through robust firewall configuration.
+  - Improved alerting and detection capabilities by enhancing Nagios configuration, resulting in a 50% increase in detected alerts.
+
+ 
 ### [DSA with MD5 for Digital Signatures](https://github.com/yourusername/dsa-md5-digital-signatures)
 Dec 2023 - Jan 2024
 
@@ -72,6 +74,7 @@ This project focused on implementing a digital signature system using the Digita
 - **Results**:
   - Successfully implemented digital signature creation and verification using DSA and MD5, demonstrating effective application of cryptographic principles.
   - Provided a practical solution for ensuring message integrity and authenticity, showcasing efficient performance in generating and validating digital signatures.
+
 
 ### [Cryptography Application: AES Implementation for Text Data Security](https://github.com/yourusername/aes-text-data-security)
 Oct 2023 - Nov 2023
@@ -88,7 +91,13 @@ This project involved the implementation of the Advanced Encryption Standard (AE
 
 ## 📚 Certifications
 
-- **Google Cyber Security Professional Certification** (Jun 2024 - Aug 2024)
+- **Cloud Agent Certified Specialist** (Issued Sep 2024)
+- **CyberSecurity Asset Management (CSAM) Certified Specialist** (Issued Sep 2024)
+- **Endpoint Detection and Response (EDR) Certified Specialist** (Issued Sep 2024)
+- **Vulnerability Management Detection and Response (VMDR) Certified Specialist** (Issued Sep 2024)
+- **Google Cybersecurity Professional Certification** (Issued Aug 2024)
+- **Machine Learning Specialization** (Issued Oct 2023)
+- **IT Support Google Specialization** (Issued Dec 2022)
 
 ---
 
