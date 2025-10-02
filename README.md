@@ -38,65 +38,113 @@ Here you'll find my learning projects, contributions, and other work that demons
 
 Here are some of my academic and learning projects in cybersecurity, cryptography, and system hardening.
 
-### [Securing Fedora Server with OpenVPN: SSL/TLS Integration and Firewall Hardening](https://github.com/taniafatmawati/vpn-secure-implementation-fedora-server)
-Aug 2024 - Sep 2024
+---
 
-This project is focused on securing data communication through the configuration of a Virtual Private Network (VPN) using OpenVPN on a Fedora Server. The goal is to ensure encrypted data transmission and protection from unauthorized access by integrating SSL/TLS certificates and robust firewall configurations.
+### [🌐 Securing Fedora Server with OpenVPN: SSL/TLS Integration and Firewall Hardening](https://github.com/taniafatmawati/vpn-secure-implementation-fedora-server)  
+**Aug 2024 – Sep 2024**  
+Secure data communication through the configuration of a Virtual Private Network (VPN) using OpenVPN on a Fedora Server with SSL/TLS and advanced firewall hardening.
 
-[Link to Documentation](https://github.com/taniafatmawati/vpn-secure-implementation-fedora-server)
+**Key results**
+- Achieved end-to-end encryption of VPN traffic using SSL/TLS certificates.
+- Applied firewall rules that reduced unauthorized access attempts by **~98%**.
+- Full documentation including server/client configs, firewall rules, and verification captures.
 
-- **Results**:
-  - Achieved complete encryption of data transmissions within the OpenVPN setup through the use of SSL/TLS certificates, ensuring comprehensive protection of data transferred between the server and clients.
-  - Applied advanced firewall rules that resulted in a 98% reduction in detected intrusion attempts, demonstrating the effectiveness of the firewall in securing network ports and preventing unauthorized access.
-
-
-### [Debian Server Setup and Hardening with Nagios Monitoring and Penetration Testing](https://github.com/taniafatmawati/debian-server-setup)
-Jul 2024 - Aug 2024
-
-This project involves configuring and securing a Debian server, implementing security measures including SSH key authentication and firewall rule optimization. Nagios was integrated to monitor system performance and security in real-time. Additionally, penetration testing was conducted using Kali Linux tools, simulating cyberattacks such as brute-force attacks with Hydra, DoS attacks with hping3, and firewall bypass attempts using Nmap.
-
-[Link to Documentation](https://github.com/taniafatmawati/debian-server-setup-and-hardening)
-
-- **Results**:
-  - Achieved a 100% reduction in successful brute-force login attempts by implementing SSH key authentication.
-  - Reduced unauthorized access attempts by 85% through robust firewall configuration.
-  - Improved alerting and detection capabilities by enhancing Nagios configuration, resulting in a 50% increase in detected alerts.
-
- 
-### [DSA with MD5 for Digital Signatures](https://github.com/taniafatmawati/dsa-md5-digital-signatures)
-Dec 2023 - Jan 2024
-
-This project focused on implementing a digital signature system using the Digital Signature Algorithm (DSA) and the Message-Digest Algorithm 5 (MD5) hash function. The objective was to create a secure method for verifying the integrity and authenticity of digital messages by generating and verifying digital signatures.
-
-[Link to Documentation](https://github.com/taniafatmawati/dsa-md5-digital-signature)
-
-- **Results**:
-  - Successfully implemented digital signature creation and verification using DSA and MD5, demonstrating effective application of cryptographic principles.
-  - Provided a practical solution for ensuring message integrity and authenticity, showcasing efficient performance in generating and validating digital signatures.
-
-
-### [Cryptography Application: AES Implementation for Text Data Security](https://github.com/taniafatmawati/aes-text-data-security)
-Oct 2023 - Nov 2023
-
-This project involved the implementation of the Advanced Encryption Standard (AES) algorithm using C++ to secure text data. I focused on using AES 128-bit encryption, applying key transformations such as SubBytes, ShiftRows, MixColumns, and AddRoundKey to encrypt text blocks efficiently. The project emphasized performance by implementing parallel processing for 128-bit blocks, achieving significant improvements in encryption speed.
-
-[Link to Documentation](https://github.com/taniafatmawati/aes-text-encryption-cpp)
-
-- **Results**:
-  - Successfully secured text data using AES 128-bit encryption, ensuring data confidentiality.
-  - Achieved a 30% improvement in encryption speed through parallel processing, making the implementation highly efficient for handling large text datasets.
+📄 [Repository & Documentation](https://github.com/taniafatmawati/vpn-secure-implementation-fedora-server)
 
 ---
 
-## 📚 Certifications
+### [🔒 Debian Server Setup & Hardening with Nagios Monitoring and Penetration Testing](https://github.com/taniafatmawati/debian-server-setup-and-hardening)  
+**Jul 2024 – Aug 2024**  
+Debian server hardening: SSH key authentication, UFW firewall policy, Nagios monitoring, and Kali-based penetration testing (Hydra, Nmap, hping3).
 
-- **Cloud Agent Certified Specialist** (Issued Sep 2024)
-- **CyberSecurity Asset Management (CSAM) Certified Specialist** (Issued Sep 2024)
-- **Endpoint Detection and Response (EDR) Certified Specialist** (Issued Sep 2024)
-- **Vulnerability Management Detection and Response (VMDR) Certified Specialist** (Issued Sep 2024)
-- **Google Cybersecurity Professional Certification** (Issued Aug 2024)
-- **Machine Learning Specialization** (Issued Oct 2023)
-- **IT Support Google Specialization** (Issued Dec 2022)
+**Key results**
+- Achieved complete reduction in successful brute-force logins after switching to SSH key auth.
+- Reduced unauthorized access attempts by 85% through robust firewall configuration.
+- Improved alerting and detection capabilities by enhancing Nagios configuration, resulting in a 50% increase in detected alerts.
+
+📄 [Repository & Documentation](https://github.com/taniafatmawati/debian-server-setup-and-hardening)
+
+---
+
+### [🔐 Secure File Transfer with AES-256 (CBC) + PBKDF2](https://github.com/taniafatmawati/secure-file-transfer-aes)  
+**Sep 2024**  
+Python tool for file encryption/decryption using AES-256 in CBC mode and PBKDF2-HMAC-SHA256 key derivation. Demonstrates applied cryptography and secure key derivation best practices.
+
+**Key features**
+- AES-256 (CBC) with PKCS7 padding, random IV and salt per file.
+- Key derived from password using PBKDF2-HMAC-SHA256.
+- Secure output format: `salt || iv || ciphertext`.
+- CLI: `encrypt.py` / `decrypt.py` with clear example flows and demo files.
+
+📄 [Repository & Documentation](https://github.com/taniafatmawati/secure-file-transfer-aes)
+
+---
+
+### [📡 Network Packet Analyzer (Mini Wireshark Clone)](https://github.com/taniafatmawati/network-packet-analyzer)  
+**Sep 2024**  
+A lightweight packet capture and analyzer built with Scapy (cross-platform). Shows TCP/UDP/ICMP classification, saves `.pcap`, and includes simple anomaly detection (suspicious port, DoS/port-scan heuristics).
+
+**Key features**
+- Live capture with friendly interface listing (psutil).
+- Saves captures to `capture.pcap` (Wireshark compatible).
+- Demo script for safe loopback testing and reproducible outputs.
+
+📄 [Repository & Documentation](https://github.com/taniafatmawati/network-packet-analyzer)
+
+---
+
+### [🚀 Cyber Attack Simulation for Penetration Testing (Kali Linux)](https://github.com/taniafatmawati/cyber-attack-simulation-penetration-testing)  
+**Aug 2024**  
+Educational Kali-based simulations for learning penetration testing: ping sweep, TCP port scans, SSH brute-force simulation, and controlled DoS simulations (lab only).
+
+**Notes & safety**
+- Lab-only, requires explicit permission to run against any non-owned systems.
+- Includes logging, modular attack scripts, and safety flags (`--confirm`) to avoid accidental misuse.
+
+📄 [Repository & Documentation](https://github.com/taniafatmawati/cyber-attack-simulation-penetration-testing)
+
+---
+
+### [🔏 DSA with MD5 for Digital Signatures](https://github.com/taniafatmawati/dsa-md5-digital-signature)  
+**Dec 2023 – Jan 2024**  
+Educational implementation of DSA signatures combined with MD5 hashing to demonstrate signing & verification flows (note: MD5 used here for teaching; not recommended for production).
+
+**Key results**
+- Demonstrated key generation, signing, and verification.
+- Streamlit demo app available for interactive exploration.
+
+📄 [Repository & Documentation](https://github.com/taniafatmawati/dsa-md5-digital-signature)  
+🔗 [Live demo (Streamlit)](https://taniafatma-digital-signature-app.streamlit.app/)
+
+---
+
+### [🛡️ AES Implementation for Text Data (C++)](https://github.com/taniafatmawati/aes-text-encryption-cpp)  
+**Oct 2023 – Nov 2023**  
+C++ implementation of AES-128 for text encryption (ECB demo), including SubBytes / ShiftRows / MixColumns / AddRoundKey, with parallelism for block processing.
+
+**Key results**
+- Functional AES-128 implementation with modular design (`aes.hpp`, `aes.cpp`, `main.cpp`).
+- Achieved ~30% speed improvement using parallel block processing (demo measurements).
+
+📄 [Repository & Documentation](https://github.com/taniafatmawati/aes-text-encryption-cpp)
+
+---
+
+## 📚 Certifications & Trainings
+
+- **Endpoint Detection and Response (EDR) Certified Specialist** — Qualys Inc. (22 Sep 2024)  
+- **Cloud Agent Certified Specialist** — Qualys Inc. (21 Sep 2024)  
+- **CyberSecurity Asset Management (CSAM) Certified Specialist** — Qualys Inc. (16 Sep 2024)  
+- **Vulnerability Management Detection and Response (VMDR) Certified Specialist** — Qualys Inc. (15 Sep 2024)  
+- **Google Cybersecurity Professional Certificate** — Coursera / Google Career Certificates (10 Aug 2024)  
+- **TensorFlow: Data and Deployment Specialization** — Coursera (23 Nov 2023)  
+- **DeepLearning.AI TensorFlow Developer Professional Certificate** — Coursera (05 Nov 2023)  
+- **Machine Learning Specialization** — Coursera (14 Oct 2023)  
+- **Mathematics for Machine Learning and Data Science Specialization** — Coursera (24 Sep 2023)  
+- **Leadership Workshop: Enhance Your Leadership Skills** — BCA (10 Jul 2023)  
+- **Training: Financial Planning and Investment** — BCA (11 Apr 2023)  
+- **Google IT Support Professional Certificate** — Coursera / Google Career Certificates (25 Dec 2022)  
+- **Fresh Graduate Academy (FGA) — Frontend Developer (HTML, CSS & JavaScript)** — Digital Talent / Progate (29 Mar 2022)
 
 ---
 
