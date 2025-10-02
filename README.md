@@ -101,7 +101,6 @@ This project involved the implementation of the Advanced Encryption Standard (AE
 ---
 
 ## 🌐 Connect with Me
-
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/tania-fatma-wati/) or send me an [email](mailto:tania.fatmawati20@gmail.com) if you want to discuss cybersecurity, collaborations, or any other topics!
+Feel free to connect via [LinkedIn](https://www.linkedin.com/in/tania-fatma-wati/) or [Email](mailto:tania.fatmawati20@gmail.com). Always open for discussions about cybersecurity, collaborations, or research!  
 
 ---
