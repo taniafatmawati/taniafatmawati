@@ -1,6 +1,6 @@
 # Hi there, I'm Tania Fatma Wati 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-taniafatmawati-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tania-fatma-wati/)](https://www.linkedin.com/in/tania-fatma-wati/)
+[![LinkedIn Badge](https://img.shields.io/badge/-taniafatmawati-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/tania-fatma-wati/)](https://www.linkedin.com/in/tania-fatma-wati/)
 [![Gmail Badge](https://img.shields.io/badge/-tania.fatmawati20@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tania.fatmawati20@gmail.com)](mailto:tania.fatmawati20@gmail.com)
 
 Welcome to my GitHub profile!  
