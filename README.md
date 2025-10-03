@@ -3,40 +3,97 @@
 [![Linkedin Badge](https://img.shields.io/badge/-taniafatmawati-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tania-fatma-wati/)](https://www.linkedin.com/in/tania-fatma-wati/)
 [![Gmail Badge](https://img.shields.io/badge/-tania.fatmawati20@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tania.fatmawati20@gmail.com)](mailto:tania.fatmawati20@gmail.com)
 
-Welcome to my GitHub profile! I'm a mathematics graduate with a strong interest in **cybersecurity**.  
-Here you'll find my learning projects, contributions, and other work that demonstrate my skills in network security, cryptography, server hardening, and applied automation.  
+Welcome to my GitHub profile!  
+I am a **Mathematics graduate** with a strong interest in **cybersecurity** and applied programming.  
+This profile showcases my learning projects and academic showcases in **network security, cryptography, penetration testing, server hardening, and automation tools**.  
 
 ---
 
 ## 🔍 About Me
 - 🎓 **Education**: Bachelor’s degree in Mathematics, Universitas Airlangga (June 2024, GPA: 3.71/4.00)  
-- 🌱 **Learning**: Continuously exploring new tools and methods in cybersecurity  
-- 💡 **Interests**: Network Security, Cryptographic Security, Incident Response, and Security Hardening  
-- 📫 **Contact**: [LinkedIn](https://www.linkedin.com/in/tania-fatma-wati/) | [Email](mailto:taniafatmawati20@gmail.com)  
+- 🛡️ **Cybersecurity Projects**: Built and documented projects on VPN security, server hardening, AES file encryption, network packet analysis, and attack simulations.  
+- 🌱 **Currently Learning**: Advanced penetration testing, secure file transfer, and cryptographic applications.  
+- 💡 **Interests**: Network Security, Cryptography, Incident Response, Penetration Testing, and Security Hardening.  
+- 📫 **Contact**: [LinkedIn](https://www.linkedin.com/in/tania-fatma-wati/) | [Email](mailto:tania.fatmawati20@gmail.com)  
 
 ---
 
 ## 🛠️ Skills & Tools
 
-### 🖥️ Programming Languages
+### 🖥️ Programming & Scripting
 ![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++ Badge](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PHP Badge](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Dart Badge](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL Badge](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🔐 Cybersecurity Skills
-- **Network Security**: VPN (OpenVPN), Firewall Configuration  
-- **Incident Response**: Simulating & responding to cyberattacks (DoS, brute-force, firewall bypass)  
-- **Cryptography**: AES Encryption, MD5 Hashing, Digital Signatures (DSA)  
-- **System Hardening**: SSH Key Authentication, Secure Server Setup  
+
+### 🔐 Cybersecurity & System Hardening
+- **Network Security**: VPN (OpenVPN), Firewall Configuration (UFW, iptables)  
+- **Penetration Testing**: Nmap, Hydra, hping3, attack simulation with Kali Linux  
+- **Cryptography**: AES (ECB/CBC modes), PBKDF2 key derivation, DSA digital signatures  
+- **Server Hardening**: Debian/Fedora setup, SSH key authentication, Nagios monitoring  
+- **Incident Response**: Attack simulation, detection, and monitoring for brute-force & DoS  
 
 ---
 
 ## 📂 Featured Projects
 
 Here are some of my academic and learning projects in cybersecurity, cryptography, and system hardening.
+
+---
+
+### [🔐 Secure File Transfer with AES-256 (CBC) + PBKDF2](https://github.com/taniafatmawati/secure-file-transfer-aes)  
+**Sep 2025**  
+Python tool for file encryption/decryption using AES-256 in CBC mode and PBKDF2-HMAC-SHA256 key derivation. Demonstrates applied cryptography and secure key derivation best practices.
+
+**Key features**
+- AES-256 (CBC) with PKCS7 padding, random IV and salt per file.
+- Key derived from password using PBKDF2-HMAC-SHA256.
+- Secure output format: `salt || iv || ciphertext`.
+- CLI: `encrypt.py` / `decrypt.py` with example flows and demo files.
+
+📄 [Repository & Documentation](https://github.com/taniafatmawati/secure-file-transfer-aes)
+
+---
+
+### [📡 Network Packet Analyzer (Mini Wireshark Clone)](https://github.com/taniafatmawati/network-packet-analyzer)  
+**Jun 2025 – Aug 2025**  
+A lightweight packet capture and analyzer built with Scapy (cross-platform). Shows TCP/UDP/ICMP classification, saves `.pcap`, and includes simple anomaly detection (suspicious port, DoS/port-scan heuristics).
+
+**Key features**
+- Live capture with friendly interface listing (psutil).
+- Saves captures to `capture.pcap` (Wireshark compatible).
+- Demo script for safe loopback testing and reproducible outputs.
+
+📄 [Repository & Documentation](https://github.com/taniafatmawati/network-packet-analyzer)
+
+---
+
+### [⚡ API Stress Test (Lightweight Node.js Tool)](https://github.com/taniafatmawati/api-stress-tester)  
+**Nov 2024 – Jan 2025**  
+A small, easy-to-read Node.js stress tester for REST APIs, intended for academic demonstration. Useful for measuring throughput (TPS), latency, and error rate under configurable workloads and exporting results to CSV.
+
+**Key features**
+- Generic REST support (config via `.env`), concurrency-based scenarios.
+- Computes throughput (TPS), average & max latency, and error rate.
+- Exports reproducible results to `results.csv` for analysis.
+- Minimal dependencies (`axios`, `dotenv`) and clear, commented code for teaching.
+
+📄 [Repository & Documentation](https://github.com/taniafatmawati/api-stress-tester)
+
+---
+
+### [🚀 Cyber Attack Simulation for Penetration Testing (Kali Linux)](https://github.com/taniafatmawati/cyber-attack-simulation-penetration-testing)  
+**Aug 2024 - Oct 2024**  
+Educational Kali-based simulations for learning penetration testing: ping sweep, TCP port scans, SSH brute-force simulation, and controlled DoS simulations (lab only).
+
+**Notes & safety**
+- Lab-only, requires explicit permission to run against any non-owned systems.
+- Includes logging, modular attack scripts, and safety flags (`--confirm`) to avoid accidental misuse.
+
+📄 [Repository & Documentation](https://github.com/taniafatmawati/cyber-attack-simulation-penetration-testing)
 
 ---
 
@@ -59,49 +116,10 @@ Debian server hardening: SSH key authentication, UFW firewall policy, Nagios mon
 
 **Key results**
 - Achieved complete reduction in successful brute-force logins after switching to SSH key auth.
-- Reduced unauthorized access attempts by 85% through robust firewall configuration.
-- Improved alerting and detection capabilities by enhancing Nagios configuration, resulting in a 50% increase in detected alerts.
+- Reduced unauthorized access attempts by **~85%** through robust firewall configuration.
+- Improved alerting and detection capabilities by enhancing Nagios configuration, resulting in a **~50%** increase in detected alerts.
 
 📄 [Repository & Documentation](https://github.com/taniafatmawati/debian-server-setup-and-hardening)
-
----
-
-### [🔐 Secure File Transfer with AES-256 (CBC) + PBKDF2](https://github.com/taniafatmawati/secure-file-transfer-aes)  
-**Sep 2024**  
-Python tool for file encryption/decryption using AES-256 in CBC mode and PBKDF2-HMAC-SHA256 key derivation. Demonstrates applied cryptography and secure key derivation best practices.
-
-**Key features**
-- AES-256 (CBC) with PKCS7 padding, random IV and salt per file.
-- Key derived from password using PBKDF2-HMAC-SHA256.
-- Secure output format: `salt || iv || ciphertext`.
-- CLI: `encrypt.py` / `decrypt.py` with clear example flows and demo files.
-
-📄 [Repository & Documentation](https://github.com/taniafatmawati/secure-file-transfer-aes)
-
----
-
-### [📡 Network Packet Analyzer (Mini Wireshark Clone)](https://github.com/taniafatmawati/network-packet-analyzer)  
-**Sep 2024**  
-A lightweight packet capture and analyzer built with Scapy (cross-platform). Shows TCP/UDP/ICMP classification, saves `.pcap`, and includes simple anomaly detection (suspicious port, DoS/port-scan heuristics).
-
-**Key features**
-- Live capture with friendly interface listing (psutil).
-- Saves captures to `capture.pcap` (Wireshark compatible).
-- Demo script for safe loopback testing and reproducible outputs.
-
-📄 [Repository & Documentation](https://github.com/taniafatmawati/network-packet-analyzer)
-
----
-
-### [🚀 Cyber Attack Simulation for Penetration Testing (Kali Linux)](https://github.com/taniafatmawati/cyber-attack-simulation-penetration-testing)  
-**Aug 2024**  
-Educational Kali-based simulations for learning penetration testing: ping sweep, TCP port scans, SSH brute-force simulation, and controlled DoS simulations (lab only).
-
-**Notes & safety**
-- Lab-only, requires explicit permission to run against any non-owned systems.
-- Includes logging, modular attack scripts, and safety flags (`--confirm`) to avoid accidental misuse.
-
-📄 [Repository & Documentation](https://github.com/taniafatmawati/cyber-attack-simulation-penetration-testing)
 
 ---
 
@@ -149,6 +167,7 @@ C++ implementation of AES-128 for text encryption (ECB demo), including SubBytes
 ---
 
 ## 🌐 Connect with Me
-Feel free to connect via [LinkedIn](https://www.linkedin.com/in/tania-fatma-wati/) or [Email](mailto:tania.fatmawati20@gmail.com). Always open for discussions about cybersecurity, collaborations, or research!  
+Feel free to connect via [LinkedIn](https://www.linkedin.com/in/tania-fatma-wati/) or [Email](mailto:tania.fatmawati20@gmail.com).  
+I’m always open for discussions on cybersecurity, collaborative projects, or academic research.  
 
 ---
