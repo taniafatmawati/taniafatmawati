@@ -20,7 +20,7 @@ This profile showcases my learning projects and academic showcases in **network 
 
 ## 🛠️ Skills & Tools
 
-### 🖥️ Programming & Scripting
+### 💻 Programming & Scripting
 ![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++ Badge](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -44,7 +44,7 @@ Here are some of my academic and learning projects in cybersecurity, cryptograph
 
 ---
 
-### [🔐 Secure File Transfer with AES-256 (CBC) + PBKDF2](https://github.com/taniafatmawati/secure-file-transfer-aes)  
+### [🔒 Secure File Transfer with AES-256 (CBC) + PBKDF2](https://github.com/taniafatmawati/secure-file-transfer-aes)  
 **Sep 2025**  
 Python tool for file encryption/decryption using AES-256 in CBC mode and PBKDF2-HMAC-SHA256 key derivation. Demonstrates applied cryptography and secure key derivation best practices.
 
@@ -110,7 +110,7 @@ Secure data communication through the configuration of a Virtual Private Network
 
 ---
 
-### [🔒 Debian Server Setup & Hardening with Nagios Monitoring and Penetration Testing](https://github.com/taniafatmawati/debian-server-setup-and-hardening)  
+### [🖥️ Debian Server Setup & Hardening with Nagios Monitoring and Penetration Testing](https://github.com/taniafatmawati/debian-server-setup-and-hardening)  
 **Jul 2024 – Aug 2024**  
 Debian server hardening: SSH key authentication, UFW firewall policy, Nagios monitoring, and Kali-based penetration testing (Hydra, Nmap, hping3).
 
@@ -123,7 +123,7 @@ Debian server hardening: SSH key authentication, UFW firewall policy, Nagios mon
 
 ---
 
-### [🔏 DSA with MD5 for Digital Signatures](https://github.com/taniafatmawati/dsa-md5-digital-signature)  
+### [📝 DSA with MD5 for Digital Signatures](https://github.com/taniafatmawati/dsa-md5-digital-signature)  
 **Dec 2023 – Jan 2024**  
 Educational implementation of DSA signatures combined with MD5 hashing to demonstrate signing & verification flows (note: MD5 used here for teaching; not recommended for production).
 
