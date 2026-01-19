@@ -4,8 +4,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-tania.fatmawati20@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tania.fatmawati20@gmail.com)](mailto:tania.fatmawati20@gmail.com)
 
 Welcome to my GitHub profile!  
-I am a **Mathematics graduate** with a strong interest in **cybersecurity** and applied programming.  
-This profile showcases my learning projects and academic showcases in **network security, cryptography, penetration testing, server hardening, and automation tools**.  
+I am a **Mathematics graduate** with hands-on experience in cybersecurity projects, system hardening, and applied security testing. 
+This GitHub contains learning and demonstration projects developed to build a solid cybersecurity foundation and to practice understanding, assessing, and communicating security and technology risks through hands-on technical work.
 
 ---
 
@@ -15,6 +15,20 @@ This profile showcases my learning projects and academic showcases in **network 
 - 🌱 **Currently Learning**: Advanced penetration testing, secure file transfer, and cryptographic applications.  
 - 💡 **Interests**: Network Security, Cryptography, Incident Response, Penetration Testing, and Security Hardening.  
 - 📫 **Contact**: [LinkedIn](https://www.linkedin.com/in/tania-fatma-wati/) | [Email](mailto:tania.fatmawati20@gmail.com)  
+
+---
+
+## 🎯 Purpose of This GitHub
+
+This GitHub profile contains learning and demonstration projects developed as part of my academic, training, and early professional experience.
+
+They are designed to:
+- Understand how cybersecurity controls are implemented in real systems
+- Observe potential security and technology risks
+- Practice documenting findings, limitations, and outcomes
+- Support clear communication of technical observations
+
+This repository complements roles in cybersecurity analysis, consulting, and technology risk by demonstrating structured thinking, documentation, and continuous learning.
 
 ---
 
@@ -46,7 +60,7 @@ Here are some of my academic and learning projects in cybersecurity, cryptograph
 
 ### [🔒 Secure File Transfer with AES-256 (CBC) + PBKDF2](https://github.com/taniafatmawati/secure-file-transfer-aes)  
 **Sep 2025**  
-Python tool for file encryption/decryption using AES-256 in CBC mode and PBKDF2-HMAC-SHA256 key derivation. Demonstrates applied cryptography and secure key derivation best practices.
+Python tool for file encryption/decryption using AES-256 in CBC mode and PBKDF2-HMAC-SHA256 key derivation. Demonstrates applied cryptography and secure key derivation best practices. This project supports understanding how cryptographic design choices affect data confidentiality and secure key management considerations.
 
 **Key features**
 - AES-256 (CBC) with PKCS7 padding, random IV and salt per file.
@@ -60,7 +74,7 @@ Python tool for file encryption/decryption using AES-256 in CBC mode and PBKDF2-
 
 ### [📡 Network Packet Analyzer (Mini Wireshark Clone)](https://github.com/taniafatmawati/network-packet-analyzer)  
 **Jun 2025 – Aug 2025**  
-A lightweight packet capture and analyzer built with Scapy (cross-platform). Shows TCP/UDP/ICMP classification, saves `.pcap`, and includes simple anomaly detection (suspicious port, DoS/port-scan heuristics).
+A lightweight packet capture and analyzer built with Scapy (cross-platform). Shows TCP/UDP/ICMP classification, saves `.pcap`, and includes simple anomaly detection (suspicious port, DoS/port-scan heuristics). This project supports basic traffic visibility and observation of abnormal network behavior to aid security analysis and risk awareness.
 
 **Key features**
 - Live capture with friendly interface listing (psutil).
@@ -73,7 +87,7 @@ A lightweight packet capture and analyzer built with Scapy (cross-platform). Sho
 
 ### [⚡ API Stress Test (Lightweight Node.js Tool)](https://github.com/taniafatmawati/api-stress-tester)  
 **Nov 2024 – Jan 2025**  
-A small, easy-to-read Node.js stress tester for REST APIs, intended for academic demonstration. Useful for measuring throughput (TPS), latency, and error rate under configurable workloads and exporting results to CSV.
+A small, easy-to-read Node.js stress tester for REST APIs, intended for academic demonstration. Useful for measuring throughput (TPS), latency, and error rate under configurable workloads and exporting results to CSV. This project helps assess availability and performance risks by observing system behavior under varying load conditions.
 
 **Key features**
 - Generic REST support (config via `.env`), concurrency-based scenarios.
@@ -87,7 +101,7 @@ A small, easy-to-read Node.js stress tester for REST APIs, intended for academic
 
 ### [🚀 Cyber Attack Simulation for Penetration Testing (Kali Linux)](https://github.com/taniafatmawati/cyber-attack-simulation-penetration-testing)  
 **Aug 2024 - Oct 2024**  
-Educational Kali-based simulations for learning penetration testing: ping sweep, TCP port scans, SSH brute-force simulation, and controlled DoS simulations (lab only).
+Educational Kali-based simulations for learning penetration testing: ping sweep, TCP port scans, SSH brute-force simulation, and controlled DoS simulations (lab only). This project is intended strictly for controlled lab environments and learning purposes, focusing on understanding common attack patterns and their impact on system security. It supports defensive awareness, detection, and documentation rather than offensive deployment.
 
 **Notes & safety**
 - Lab-only, requires explicit permission to run against any non-owned systems.
@@ -99,7 +113,7 @@ Educational Kali-based simulations for learning penetration testing: ping sweep,
 
 ### [🌐 Securing Fedora Server with OpenVPN: SSL/TLS Integration and Firewall Hardening](https://github.com/taniafatmawati/vpn-secure-implementation-fedora-server)  
 **Aug 2024 – Sep 2024**  
-Secure data communication through the configuration of a Virtual Private Network (VPN) using OpenVPN on a Fedora Server with SSL/TLS and advanced firewall hardening.
+Secure data communication through the configuration of a Virtual Private Network (VPN) using OpenVPN on a Fedora Server with SSL/TLS and advanced firewall hardening. This project also supports understanding access control, secure remote access, and configuration-related security risks in infrastructure environments.
 
 **Key results**
 - Achieved end-to-end encryption of VPN traffic using SSL/TLS certificates.
@@ -112,7 +126,7 @@ Secure data communication through the configuration of a Virtual Private Network
 
 ### [🖥️ Debian Server Setup & Hardening with Nagios Monitoring and Penetration Testing](https://github.com/taniafatmawati/debian-server-setup-and-hardening)  
 **Jul 2024 – Aug 2024**  
-Debian server hardening: SSH key authentication, UFW firewall policy, Nagios monitoring, and Kali-based penetration testing (Hydra, Nmap, hping3).
+Debian server hardening: SSH key authentication, UFW firewall policy, Nagios monitoring, and Kali-based penetration testing (Hydra, Nmap, hping3). The project emphasizes structured documentation of configurations, observations, and outcomes to support clear security communication.
 
 **Key results**
 - Achieved complete reduction in successful brute-force logins after switching to SSH key auth.
@@ -125,7 +139,7 @@ Debian server hardening: SSH key authentication, UFW firewall policy, Nagios mon
 
 ### [📝 DSA with MD5 for Digital Signatures](https://github.com/taniafatmawati/dsa-md5-digital-signature)  
 **Dec 2023 – Jan 2024**  
-Educational implementation of DSA signatures combined with MD5 hashing to demonstrate signing & verification flows (note: MD5 used here for teaching; not recommended for production).
+Educational implementation of DSA signatures combined with MD5 hashing to demonstrate signing & verification flows (note: MD5 used here for teaching; not recommended for production). This project is purely educational and intended to demonstrate signature workflows and verification logic, not cryptographic best practices for production use.
 
 **Key results**
 - Demonstrated key generation, signing, and verification.
