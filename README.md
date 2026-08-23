@@ -9,7 +9,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 👩🏻‍💻 About Me
 
 I am a **Cybersecurity Analyst** with hands-on experience in security assessment, incident response, and secure infrastructure implementation. With a Bachelor's degree in **Mathematics** from Universitas Airlangga (GPA: 3.71/4.00), I bring strong analytical and problem-solving skills to the cybersecurity domain.
 
