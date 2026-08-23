@@ -1,11 +1,11 @@
 # 👋 Hi there, I'm Tania Fatma Wati
 
+**Cybersecurity Analyst** | Security Assessment & Incident Response | Applied Cryptography & Infrastructure Security
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-taniafatmawati-555?style=flat-square&logo=linkedin&logoColor=white&labelColor=555&color=0077b5)](https://www.linkedin.com/in/tania-fatma-wati/) &nbsp;
 [![Gmail](https://img.shields.io/badge/-tania.fatmawati20@gmail.com-555?style=flat-square&logo=Gmail&logoColor=white&labelColor=555&color=0077b5)](mailto:tania.fatmawati20@gmail.com) &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-taniafatmawati-555?style=flat-square&logo=github&logoColor=white&labelColor=555&color=0077b5)](https://github.com/taniafatmawati) &nbsp;
 ![](https://komarev.com/ghpvc/?username=taniafatmawati&color=0077b5&style=flat-square&label=Profile%20views)
-
-**Cybersecurity Analyst** | Security Assessment & Incident Response | Applied Cryptography & Infrastructure Security
 
 ---
 
@@ -262,14 +262,5 @@ I am actively seeking opportunities in **IT Security Consulting**, **Security En
 - **GitHub**: [taniafatmawati](https://github.com/taniafatmawati)
 
 Feel free to connect or reach out—I'm always open to discussions on cybersecurity, collaborative projects, or academic research.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=taniafatmawati&show_icons=true&theme=dark&hide_title=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taniafatmawati&layout=compact&theme=dark" alt="Top Languages" />
-</p>
 
 ---
