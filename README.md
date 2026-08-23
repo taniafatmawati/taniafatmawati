@@ -5,7 +5,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-taniafatmawati-555?style=flat-square&logo=github&logoColor=white&labelColor=555&color=0077b5)](https://github.com/taniafatmawati) &nbsp;
 ![](https://komarev.com/ghpvc/?username=taniafatmawati&color=0077b5&style=flat-square&label=Profile%20views)
 
-> **Cybersecurity Analyst** | Security Assessment & Incident Response | Applied Cryptography & Infrastructure Security
+**Cybersecurity Analyst** | Security Assessment & Incident Response | Applied Cryptography & Infrastructure Security
 
 ---
 
@@ -37,8 +37,6 @@ Feel free to connect or reach out for discussions on cybersecurity, collaborativ
 
 ## 🛠️ Technical Skills
 
-### 🔐 Cybersecurity & System Hardening
-
 | Category | Technologies |
 |----------|--------------|
 | **Network Security** | VPN (OpenVPN), Firewall Configuration (UFW, iptables), VLAN, ACL |
@@ -49,21 +47,19 @@ Feel free to connect or reach out for discussions on cybersecurity, collaborativ
 | **Security Monitoring** | SIEM, EDR, Incident Investigation, Threat Detection |
 | **Monitoring & Observability** | Nagios, Security Monitoring, Log Analysis |
 | **Compliance & Risk** | Common Criteria (CC EAL3), Risk Assessment, Documentation, GRC |
-
-### 💻 Programming & Scripting
-
-![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++ Badge](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Dart Badge](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![SQL Badge](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 📱 Cross-Platform Development
-| Category | Technologies |
-|----------|--------------|
+| **Programming Languages** | Python, JavaScript, C++, Dart, SQL |
 | **Mobile/Desktop** | Flutter, Dart |
 
 *Note: Flutter & Dart were used for enterprise cryptographic key management system UI development in professional capacity (cross-platform secure application design).*
+
+### 📱 Tech Badges
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
 ---
 
@@ -271,7 +267,9 @@ Feel free to connect or reach out—I'm always open to discussions on cybersecur
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=taniafatmawati&show_icons=true&theme=dark&hide_title=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=taniafatmawati&layout=compact&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=taniafatmawati&show_icons=true&theme=dark&hide_title=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=taniafatmawati&layout=compact&theme=dark" alt="Top Languages" />
+</p>
 
 ---
