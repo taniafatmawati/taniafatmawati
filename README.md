@@ -82,6 +82,68 @@ Python tool for file encryption/decryption using AES-256 in CBC mode and PBKDF2-
 
 ---
 
+### 📝 [DSA with MD5 for Digital Signatures](https://github.com/taniafatmawati/dsa-md5-digital-signature)
+*Dec 2023 – Jan 2024*
+
+Educational implementation of DSA signatures combined with MD5 hashing to demonstrate signing & verification flows.
+
+**Key features:**
+- Key generation, signing, and verification
+- Streamlit demo app available for interactive exploration
+- [Live demo](https://taniafatma-digital-signature-app.streamlit.app/)
+
+> **⚠️ Security Note:** MD5 is used **solely for educational demonstration** to illustrate cryptographic signing and verification workflows. **MD5 is cryptographically broken and should NEVER be used in production environments.**
+
+---
+
+### 🛡️ [AES Implementation for Text Data (C++)](https://github.com/taniafatmawati/aes-text-encryption-cpp)
+*Oct 2023 – Nov 2023*
+
+C++ implementation of AES-128 for text encryption (ECB demo), including SubBytes / ShiftRows / MixColumns / AddRoundKey, with parallelism for block processing.
+
+**Key results:**
+- Functional AES-128 implementation with modular design
+- **~30% speed improvement** using parallel block processing
+
+---
+
+### 🌐 [Securing Fedora Server with OpenVPN: SSL/TLS Integration and Firewall Hardening](https://github.com/taniafatmawati/vpn-secure-implementation-fedora-server)
+*Aug 2024 – Sep 2024*
+
+Secure data communication through the configuration of a Virtual Private Network (VPN) using OpenVPN on a Fedora Server with SSL/TLS and advanced firewall hardening. Supports understanding access control, secure remote access, and configuration-related security risks in infrastructure environments.
+
+**Key results:**
+- End-to-end encryption of VPN traffic using SSL/TLS certificates
+- Firewall rules reduced unauthorized access attempts by **~98%**
+- Full documentation including server/client configs
+
+---
+
+### 🖥️ [Debian Server Setup & Hardening with Nagios Monitoring](https://github.com/taniafatmawati/debian-server-setup-and-hardening)
+*Jul 2024 – Aug 2024*
+
+Debian server hardening: SSH key authentication, UFW firewall policy, Nagios monitoring, and Kali-based penetration testing. Demonstrates practical experience in security monitoring and observability — directly relevant to security engineering and SOC roles.
+
+**Key results:**
+- **100% reduction** in successful brute-force logins after SSH key auth
+- **85% reduction** in unauthorized access attempts through firewall configuration
+- **50% increase** in detected alerts through enhanced Nagios configuration
+
+---
+
+### 🏗️ [VLAN Segmentation & DHCP Implementation](https://github.com/taniafatmawati/vlan-firewall-dhcp-lab)
+*Jun 2026 – Jul 2026*
+
+Demonstrates network segmentation using VLANs, DHCP Server, and ACL-based firewall rules to enforce Zero Trust security policies.
+
+**Security principles applied:**
+- **Zero Trust**: No default access between VLANs
+- **Least Privilege**: HR only accesses required resources
+- **Network Segmentation**: VLANs separate departments logically
+- **Access Control**: ACLs regulate access permissions
+
+---
+
 ### 📡 [Network Packet Analyzer (Mini Wireshark Clone)](https://github.com/taniafatmawati/network-packet-analyzer)
 *Jun 2025 – Aug 2025*
 
@@ -124,68 +186,6 @@ Educational Kali-based simulations for learning penetration testing: ping sweep,
 **Notes & safety:**
 - Lab-only, requires explicit permission
 - Includes logging, modular attack scripts, and safety flags (`--confirm`)
-
----
-
-### 🌐 [Securing Fedora Server with OpenVPN: SSL/TLS Integration and Firewall Hardening](https://github.com/taniafatmawati/vpn-secure-implementation-fedora-server)
-*Aug 2024 – Sep 2024*
-
-Secure data communication through the configuration of a Virtual Private Network (VPN) using OpenVPN on a Fedora Server with SSL/TLS and advanced firewall hardening. Supports understanding access control, secure remote access, and configuration-related security risks in infrastructure environments.
-
-**Key results:**
-- End-to-end encryption of VPN traffic using SSL/TLS certificates
-- Firewall rules reduced unauthorized access attempts by **~98%**
-- Full documentation including server/client configs
-
----
-
-### 🖥️ [Debian Server Setup & Hardening with Nagios Monitoring](https://github.com/taniafatmawati/debian-server-setup-and-hardening)
-*Jul 2024 – Aug 2024*
-
-Debian server hardening: SSH key authentication, UFW firewall policy, Nagios monitoring, and Kali-based penetration testing. Demonstrates practical experience in security monitoring and observability — directly relevant to security engineering and SOC roles.
-
-**Key results:**
-- **100% reduction** in successful brute-force logins after SSH key auth
-- **85% reduction** in unauthorized access attempts through firewall configuration
-- **50% increase** in detected alerts through enhanced Nagios configuration
-
----
-
-### 🏗️ [VLAN Segmentation & DHCP Implementation](https://github.com/taniafatmawati/vlan-firewall-dhcp-lab)
-*Network Security Project*
-
-Demonstrates network segmentation using VLANs, DHCP Server, and ACL-based firewall rules to enforce Zero Trust security policies.
-
-**Security principles applied:**
-- **Zero Trust**: No default access between VLANs
-- **Least Privilege**: HR only accesses required resources
-- **Network Segmentation**: VLANs separate departments logically
-- **Access Control**: ACLs regulate access permissions
-
----
-
-### 📝 [DSA with MD5 for Digital Signatures](https://github.com/taniafatmawati/dsa-md5-digital-signature)
-*Dec 2023 – Jan 2024*
-
-Educational implementation of DSA signatures combined with MD5 hashing to demonstrate signing & verification flows.
-
-**Key features:**
-- Key generation, signing, and verification
-- Streamlit demo app available for interactive exploration
-- [Live demo](https://taniafatma-digital-signature-app.streamlit.app/)
-
-> **⚠️ Security Note:** MD5 is used **solely for educational demonstration** to illustrate cryptographic signing and verification workflows. **MD5 is cryptographically broken and should NEVER be used in production environments.**
-
----
-
-### 🛡️ [AES Implementation for Text Data (C++)](https://github.com/taniafatmawati/aes-text-encryption-cpp)
-*Oct 2023 – Nov 2023*
-
-C++ implementation of AES-128 for text encryption (ECB demo), including SubBytes / ShiftRows / MixColumns / AddRoundKey, with parallelism for block processing.
-
-**Key results:**
-- Functional AES-128 implementation with modular design
-- **~30% speed improvement** using parallel block processing
 
 ---
 
