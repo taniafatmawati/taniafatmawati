@@ -243,7 +243,7 @@ A compilation of various C++ scripts and code snippets created during college. D
 **Bachelor of Science - BS, Mathematics**
 *Sep 2020 – Jun 2024* · GPA: 3.71 / 4.00
 
-Built a strong analytical and problem-solving foundation through coursework in applied cryptography, algorithms, data structures, and database systems. Complemented by hands-on projects and self-directed learning in secure system implementation, network security, and vulnerability assessment.
+My Mathematics degree from Universitas Airlangga provided a rigorous foundation in applied cryptography, algorithmic reasoning, and data structures—competencies I've applied directly to security engineering and assessment projects. I built hands-on labs exploring cryptographic algorithms (AES, DSA), Linux system hardening, and vulnerability assessment, bridging mathematical theory with practical security implementation. This blend enables me to analyze security at both the algorithmic and infrastructure layers—reasoning about why systems are vulnerable, not just how to patch them.
 
 ---
 
